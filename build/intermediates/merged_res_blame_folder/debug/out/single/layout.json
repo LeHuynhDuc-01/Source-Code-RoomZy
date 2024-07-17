@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_item_booking.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_item_booking.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/fragment_product_detail.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_booking_detail.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_booking_detail.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/fragment_propose.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/fragment_propose.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_cart_column.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_cart_column.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_all_item.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_all_item.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_all_cart.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_all_cart.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_voucher.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_voucher.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/item_searchroom.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/item_searchroom.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/fragment_search.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_booking_history.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_booking_history.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/banner_item.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/banner_item.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_image_view.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_image_view.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_register.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_payment.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_payment.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_booking.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_booking.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/spinner_item.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_all_view_home.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_all_view_home.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_categories.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_categories.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_item_booking_history.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_item_booking_history.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_cart.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/cart_layout.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/cart_layout.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_history.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_history.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_history.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/bottom_sheet_voucher.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/bottom_sheet_voucher.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_filter_the_data.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_filter_the_data.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/activity_view_all.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/activity_view_all.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/fragment_profile.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/layout_item_voucher.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/layout_item_voucher.xml"
+    },
+    {
+        "merged": "com.app.roomzy.app-mergeDebugResources-38:/layout/fragment_home.xml",
+        "source": "com.app.roomzy.app-main-41:/layout/fragment_home.xml"
+    }
+]

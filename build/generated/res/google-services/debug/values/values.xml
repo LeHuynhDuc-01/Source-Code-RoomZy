@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">75785787585</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQT_-rdUsg7CNneQsVoVxHxsIp17OR2LQ</string>
+    <string name="google_app_id" translatable="false">1:75785787585:android:be333d8b5856a7f7e39c40</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQT_-rdUsg7CNneQsVoVxHxsIp17OR2LQ</string>
+    <string name="google_storage_bucket" translatable="false">roomzy-cbeb4.appspot.com</string>
+    <string name="project_id" translatable="false">roomzy-cbeb4</string>
+</resources>
